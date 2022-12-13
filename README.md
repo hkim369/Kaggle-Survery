@@ -1,4 +1,4 @@
 # Kaggle-Survery
 Kaggle users have created great notebooks including gorgeous visualization and thorough analysis. 
 Who are the people publishing these nice notebooks? 
-This will show their ages, genders, education levels, titles and experience from 2021 Kaggle survey. 
+Actually my curiousity started from the thought; I want to feel that I am not an odd person here. Maybe there are some people like me. This analysis could help to answer my curiousity.
